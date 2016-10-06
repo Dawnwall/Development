@@ -1,2 +1,2 @@
 # Development
-Propostas em geral.
+Propostas de desenvolvimento em geral.
